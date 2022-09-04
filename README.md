@@ -9,6 +9,6 @@ Seems to work with even non-NVIDIA based devices (Intel, AMD, and so on). I woul
 DISCLAIMER:
 WORKS ONLY WITH UNITY - THIS IS THE UNITY VERSION OF NVIDIA FLEX
 
-I am not saying that I own Flex, or the rights to it. I am here to merely distribute the package. Flex was removed from the Unity Asset Store a while back, and it was pretty hard to get your hands on it after that happened. I managed to find a download to it, and decided to share it with the world once again as I think that it's quite an interesting package. For all I'm aware of, Flex was free so you should be able to use this even commercially(?), but I'd suggest to do some research into that, or just use it for testing.
+I am not saying that I own Flex, or the rights to it. I am here to merely distribute the package. Flex was removed from the Unity Asset Store a while back, and it was pretty hard to get your hands on it after that happened. I managed to find a download to it, and decided to share it with the world once again as I think that it's quite an interesting package. For all I'm aware of, Flex was free on the Asset Store, but I'm not sure if you re allowed to use this commercially. You might only be able to use this for testing purposes.
 
 Thanks, and have fun!
