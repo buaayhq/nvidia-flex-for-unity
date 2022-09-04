@@ -1,7 +1,7 @@
 # nvidia-flex-for-unity
 [IF THIS MESSAGE IS DISPLAYED IT MEANS THAT THIS IS FLAWED AND WONT RUN PROPERLY]
 
-Github f*ucked up the file imports, and Unity won't display all the files in-engine, and thus wont work. It will take me a few hours to fix this, but after this message is gone it should work just fine.
+Github failed the file imports, and Unity won't display all the files in-engine, and thus wont work. It will take me a few hours to fix this, but after this message is gone it should work just fine.
 
 An unofficial rep for the NVIDIA Flex plugin/demo(s) for Unity.
 
