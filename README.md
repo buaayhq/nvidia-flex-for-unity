@@ -1,7 +1,7 @@
 # nvidia-flex-for-unity
 The commit was broken. Fixing. DON'T DOWNLOAD YET.
 
-An unofficial rep for the NVIDIA Flex plugin/demo(s) for Unity.
+An unofficial reposity for the NVIDIA Flex plugin/demo(s) for Unity.
 
 NVIDIA Flex is a bunch of physics systems built for Unity by NVIDIA.
 
