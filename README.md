@@ -21,6 +21,7 @@ NVIDIA Flex contains this notice;
 // license agreement from NVIDIA Corporation is strictly prohibited.
 
 You are not allowed to use *this* plugin of Flex commercially, but you should be allowed to try to find other ways of getting Flex working in Unity. 
+
 THIS IS ONLY FOR RESEARCH AND TESTING PURPOSES.
 
 Thanks, and have fun!
