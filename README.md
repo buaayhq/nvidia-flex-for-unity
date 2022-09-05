@@ -1,5 +1,4 @@
 # nvidia-flex-for-unity
-The files will not work when imported into Unity, currently trying to fix the rep. Don't download yet.
 
 An unofficial reposity for the NVIDIA Flex plugin/demo(s) for Unity.
 
