@@ -1,5 +1,5 @@
 # nvidia-flex-for-unity
-The commit was broken. Fixing. DON'T DOWNLOAD YET.
+Currently fixing the rep. Don't download yet.
 
 An unofficial reposity for the NVIDIA Flex plugin/demo(s) for Unity.
 
