@@ -15,7 +15,7 @@ Seems to work with even non-NVIDIA based devices (Intel, AMD, and so on). I woul
 
 3. (optional) Drop the Flex Samples folder to your assets folder if you want to experiment with already created examples.
 
-*NOTE:* If you already have an Editor folder in your project, open the folder before importing and only import the following folders; Editors 6 Tests to your existing Unity Editor folder. 
+*NOTE:* If you already have an Editor folder in your project, open the folder before importing and only import the following folders; Editors & Tests to your existing Unity Editor folder. 
 
 You also can't have two folders with the same name, so if you already have a folder in-engine with the same name as any of the mentioned folders, rename the existing ones or the ones that you're importing.
 
