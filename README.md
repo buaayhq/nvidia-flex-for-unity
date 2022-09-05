@@ -31,9 +31,9 @@ Examples included are:
 
 ![examples](https://user-images.githubusercontent.com/93699568/188478941-2aac84aa-6b99-4b02-b780-ca438446eb13.PNG)
 
+WORKS ONLY WITH UNITY - THIS IS THE UNITY VERSION OF NVIDIA FLEX
 
 **DISCLAIMER:**
-WORKS ONLY WITH UNITY - THIS IS THE UNITY VERSION OF NVIDIA FLEX
 
 I am not saying that I own Flex, or the rights to it. I am here to merely distribute the package. Flex was removed from the Unity Asset Store a while back, and it was pretty hard to get your hands on it after that happened. I managed to find a download to it, and decided to share it with the world once again as I think that it's quite an interesting package.
 
